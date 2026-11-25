@@ -1,6 +1,5 @@
-# Heyyy, I'm Sameer 👋🏻
-
-*learning, building, and figuring things out one project at a time.*
+<h1 align="center">Heyyy, I'm Sameer 👋🏻</h1>
+<p align="center"><i>learning, building, and figuring things out one project at a time.</i></p>
 
 I'm a final-year **AI & ML undergraduate at SDMCET, Dharwad**.
 
