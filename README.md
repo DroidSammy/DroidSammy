@@ -1,16 +1,21 @@
-## Hi there 👋
+# Heyyy, I'm Sameer 👋🏻
 
-<!--
-**DroidSammy/DroidSammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*learning, building, and figuring things out one project at a time.*
 
-Here are some ideas to get you started:
+I'm a final-year **AI & ML undergraduate at SDMCET, Dharwad**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software that solves real problems — from full-stack applications and backend systems to AI-powered projects.
+
+### currently
+
+- 🌱 Learning Java, Spring Boot & Cloud
+- 💻 Building software and AI/ML projects
+- 🚀 Exploring backend engineering and scalable systems
+
+Outside of GitHub, you'll probably find me watching anime, following cricket, or discovering something new to learn.
+
+If you'd like to collaborate, talk tech, or just say hi, feel free to reach out!
+
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/sameersingh07/)**
+
+Thanks for stopping by! 🏎️🏁
