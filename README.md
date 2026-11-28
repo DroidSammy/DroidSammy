@@ -7,6 +7,7 @@ I enjoy building software that solves real problems — from full-stack applicat
 
 ### currently
 
+- 🤖 Exploring Generative AI, LLMs, and RAG-based applications
 - 🌱 Learning Java, Spring Boot & Cloud
 - 💻 Building software and AI/ML projects
 - 🚀 Exploring backend engineering and scalable systems
